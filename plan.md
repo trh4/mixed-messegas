@@ -16,6 +16,7 @@
 1. find funny lines that will compose the jokes
 2. create 3 lists of 10 parts of joke each that make funny sense
 3. create the js code that will run the code 
-4. test the functionality of the code
+4. test the functionality of the code 
 
 **deadline to finish todos: 24.5.2022**
+:smile:
