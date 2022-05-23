@@ -19,4 +19,3 @@
 4. test the functionality of the code 
 
 **deadline to finish todos: 24.5.2022**
-:smile:
