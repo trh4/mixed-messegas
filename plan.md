@@ -11,6 +11,7 @@
 2.print random non-explicit joke 
 >2 options to keep printing lines
 >or clear each time the screen
+**still dont know how to get userinput so aborted options**
 
 ## to do:
 1. find funny lines that will compose the jokes
